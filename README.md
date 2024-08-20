@@ -1,4 +1,3 @@
-markdown
 # el0007-USB-to-LCD
 
 This repository contains various projects utilizing the EL0007 USB-to-LCD board. The scripts provided demonstrate how to use the EL0007 board to display real-time system information, such as CPU temperature and RAM usage, as well as other custom data.
